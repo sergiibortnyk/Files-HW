@@ -1,0 +1,9 @@
+D:\dropbox\IT\С#\Coding\Files\Files-HW\Files-HW\bin\Debug\Files-HW.exe.config
+C:\Users\serhiyb\Dropbox\IT\С#\Coding\Files\Files-HW\Files-HW\bin\Debug\Files-HW.exe.config
+C:\Users\serhiyb\Dropbox\IT\С#\Coding\Files\Files-HW\Files-HW\obj\Debug\Files-HW.csprojResolveAssemblyReference.cache
+C:\Users\serhiyb\Dropbox\IT\С#\Coding\Files\Files-HW\Files-HW\bin\Debug\Files-HW.exe
+C:\Users\serhiyb\Dropbox\IT\С#\Coding\Files\Files-HW\Files-HW\bin\Debug\Files-HW.pdb
+C:\Users\serhiyb\Dropbox\IT\С#\Coding\Files\Files-HW\Files-HW\obj\Debug\Files-HW.exe
+C:\Users\serhiyb\Dropbox\IT\С#\Coding\Files\Files-HW\Files-HW\obj\Debug\Files-HW.pdb
+D:\dropbox\IT\С#\Coding\Files\Files-HW\Files-HW\obj\Debug\Files-HW.exe
+D:\dropbox\IT\С#\Coding\Files\Files-HW\Files-HW\obj\Debug\Files-HW.pdb
